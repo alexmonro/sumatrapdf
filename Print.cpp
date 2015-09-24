@@ -1,0 +1,1 @@
+hi, i qould like to know if you can point me in which part of the code i can set the Diskaccess to 0 and the Printeraccess to 1, due that in this new version i cant find it, i need to restrict the user in not being able to haver access to the disk files but yes access to the printer menu, thank you.
